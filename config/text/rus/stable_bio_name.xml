@@ -37,6 +37,9 @@
 	<string id="agr_krot_name">
 		<text>Крот</text>
 	</string>
+		<string id="esc_zhid">
+		<text>Жид</text>
+	</string>
 	<string id="bar_arena_stalker">
 		<text>Один из участников смертельных боев на Арене. Детальная информация отсутствует.</text>
 	</string>
