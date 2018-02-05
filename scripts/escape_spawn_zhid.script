@@ -1,0 +1,3 @@
+function spawn_npc()
+alife():create("esc_zhid",vector():set(-240.35, -20.02, -155.63),14953,47)
+end

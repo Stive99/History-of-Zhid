@@ -20,14 +20,14 @@
 
 
 	<info_portion id="esc_kill_gunslinger">
-	<!--	<task>storyline_eliminate_gunslinger</task> -->
+		<task>storyline_eliminate_gunslinger</task>
 		<article>about_enciclopedia</article>
 		<article>sl_beginning</article>
 	</info_portion>
 
 	<!-- Tutorial wounded -->
 	<info_portion id="tutorial_wounded_start">
-	 <!--	<task>esc_flash_task</task> -->
+	 	<task>esc_flash_task</task>
 		<article>sl_first_opinions</article>   <!--commented -->
 	</info_portion>
 	<info_portion id="esc_first_novice_dead"></info_portion>
@@ -68,7 +68,7 @@
 	<info_portion id="escape_stalker_dog_spawn"></info_portion>	
 	<info_portion id="escape_stalker_dog_die"></info_portion>	
 	<info_portion id="escape_stalker_meet">
-	<!--	<task>esc_help_wounded_from_raid</task> -->
+		<task>esc_help_wounded_from_raid</task>
 		<article>sl_usefull_info</article>
 	</info_portion>
 	<info_portion id="escape_stalker_give">	
@@ -81,7 +81,7 @@
 	
 	<!-- Blokpost_case -->
 	<info_portion id="escape_blockpost_case">
-	<!--	<task>esc_blockpost_case_to_trader</task> -->
+		<task>esc_blockpost_case_to_trader</task>
 		<article>esc_blokpost_case</article>
 	</info_portion>
 	<info_portion id="escape_blockpost_case_have"></info_portion>
@@ -90,8 +90,8 @@
 	
 	<!-- Dinamyte -->
 	<info_portion id="escape_dynamite_start">
-     <!--	<task>esc_dinamit_to_volk</task> -->
-		<article>esc_volk_dynamite</article> 
+<!--		<task>esc_dinamit_to_volk</task>
+		<article>esc_volk_dynamite</article> -->
 	</info_portion>
 	<info_portion id="escape_dynamite_meet"></info_portion>
 	<info_portion id="esc_petruha_great"></info_portion>
@@ -104,7 +104,7 @@
 
 	<!-- Newbie_lager_help -->
 	<info_portion id="escape_lager_help">
-	<!--	<task>esc_defend_lager</task> -->
+		<task>esc_defend_lager</task>
 		<article>defend_novice</article>
 	</info_portion>
 	<info_portion id="escape_lager_spawn_killers"></info_portion>
@@ -202,8 +202,8 @@
 	
 	<!-- trader bandits on factory -->
 	<info_portion id="esc_kill_bandits_quest_have">
-	<!--	<task>esc_dinamit_to_volk</task> -->
-		<article>kill_factory_bandits</article> 
+	<!--	<task>esc_dinamit_to_volk</task>
+		<article>kill_factory_bandits</article> -->
 	</info_portion>
 	<info_portion id="esc_kill_bandits_quest_kill"></info_portion>
 	<info_portion id="esc_kill_bandits_noquest_kill"></info_portion>
@@ -229,7 +229,7 @@
 		
 	<!-- проводник -->
 	<info_portion id="esc_find_doctor_start">
-	<!--	<task>doctor_meet</task> -->
+		<task>doctor_meet</task>
 		<article>esc_provodnik_pda</article>
 		<article>sl_provodnik</article>
 	</info_portion>
@@ -241,7 +241,7 @@
 	<info_portion id="esc_dog_spawn"></info_portion>
 
 	<info_portion id="esc_find_railroad_passage_start">
-	<!--	<task>find_railroad_passage</task> -->
+		<task>find_railroad_passage</task>
 	</info_portion>
 	<info_portion id="esc_find_railroad_passage_find_stalker"></info_portion>
 	<info_portion id="esc_find_railroad_passage_done"></info_portion>
@@ -249,7 +249,7 @@
 	<info_portion id="esc_tutorial_start"></info_portion>
 	
 	<info_portion id="trader_job">
-	<!--	<task>esc_trader_job</task> -->
+		<task>esc_trader_job</task>
 	</info_portion>
 	<info_portion id="esc_fanat_dead"></info_portion>
 	
