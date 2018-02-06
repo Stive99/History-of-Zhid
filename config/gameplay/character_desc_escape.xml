@@ -49,17 +49,14 @@
 			wpn_pm \n
 			ammo_9x18_fmj = 1 \n
 			wpn_ak74u \n
-			ammo_5.45x39_fmj \n
-			ammo_5.45x39_fmj \n
-			ammo_5.45x39_fmj \n
-			ammo_5.45x39_fmj \n
+			ammo_5.45x39_fmj = 5 \n
 		</supplies>
 				
 #include "gameplay\character_criticals_4.xml"
 				
 		<start_dialog>dm_hello_dialog</start_dialog>
 	<actor_dialog>zhid_dialog_kachalka</actor_dialog>
-	</specific_character>
+		</specific_character>
 	
 <!---------------------------------------esc_wolf----------------------------------------------------->
 	<specific_character id="esc_wolf" team_default = "1">
