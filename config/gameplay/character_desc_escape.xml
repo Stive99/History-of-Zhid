@@ -42,7 +42,7 @@
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
 		<panic_treshold>0</panic_treshold>
- 
+
 		<visual>actors\neytral\stalker_neytral_rukzak_3</visual>
 		<supplies>
 			[spawn] \n
@@ -55,6 +55,7 @@
 #include "gameplay\character_criticals_4.xml"
 				
 		<start_dialog>dm_hello_dialog</start_dialog>
+	<actor_dialog>zhid_dialog_kachalka_quest</actor_dialog>	
 	<actor_dialog>zhid_dialog_kachalka</actor_dialog>
 		</specific_character>
 	

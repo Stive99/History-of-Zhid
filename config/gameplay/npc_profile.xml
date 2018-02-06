@@ -34,6 +34,7 @@
 	
 		<character id="esc_zhid">
 		<class>esc_zhid</class>
+		<specific_character>esc_rak</specific_character>
 	</character>
 	
 	<character id="esc_fox">

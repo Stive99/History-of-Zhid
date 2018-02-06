@@ -748,7 +748,7 @@
 		<text>Ну, как ты?</text>
 	</string>
 	
-						<!--Диалог с жидом-->
+						<!--Диалог с Жидом-->
 
 	<string id="zhid_dialog_kachalka_0">
 		<text>Жид, когда качалка откроется?</text>
@@ -762,4 +762,20 @@
 	<string id="zhid_dialog_kachalka_3">
 		<text>xD</text>
 	</string>
+	
+							<!--Квест Жида-->
+							
+	<string id="zhid_dialog_kachalka_quest_0">
+		<text>Жид, есть работа?</text>
+	</string>
+	<string id="zhid_dialog_kachalka_quest_1">
+		<text>Для тебя всегда найдется.</text>
+	</string>
+	<string id="zhid_dialog_kachalka_quest_2">
+		<text>Понял. Скоро буду.</text>
+	</string>
+	<string id="zhid_dialog_kachalka_quest_3">
+		<text>Удачи!</text>
+	</string>
+	
 </string_table>

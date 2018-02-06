@@ -1553,6 +1553,24 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
-	
+	<dialog id="zhid_dialog_kachalka_quest">
+		<phrase_list>
+			<phrase id="0">
+				<text>zhid_dialog_kachalka_quest_0</text>
+				<next>1</next>
+			</phrase>	
+			<phrase id="1">
+				<text>zhid_dialog_kachalka_quest_1</text>
+				<next>2</next>
+			</phrase>
+			<phrase id="2">
+				<text>zhid_dialog_kachalka_quest_2</text>
+				<next>3</next>
+			</phrase>	
+			<phrase id="3">
+				<text>zhid_dialog_kachalka_quest_3</text>
+				
+			</phrase>
+		</phrase_list>
+	</dialog>
 </game_dialogs>
