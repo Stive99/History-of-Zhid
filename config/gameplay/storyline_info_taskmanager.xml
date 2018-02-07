@@ -415,8 +415,6 @@
 	
 	<!-- Тестовый квест жида -->
 	
-	<article id="tm_kill_stalker_7_descr" name="kill_stalker" article_type="task">
-
-	<text>tm_kill_stalker_7_descr</text>
-
+	<article id="zhid_dialog_kachalka_quest_text" name="kill_stalker" article_type="task">
+	<text>zhid_dialog_kachalka_quest_text</text>	
 	</article>

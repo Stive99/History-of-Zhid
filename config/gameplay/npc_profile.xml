@@ -34,7 +34,7 @@
 	
 		<character id="esc_zhid">
 		<class>esc_zhid</class>
-		<specific_character>esc_rak</specific_character>
+	<!--	<specific_character>tm_kill_stalker_7</specific_character> -->
 	</character>
 	
 	<character id="esc_fox">

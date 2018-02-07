@@ -1167,8 +1167,19 @@
 	<string id="defend_lager">
 		<text>Защита лагеря</text>
 	</string>
+	
+				<!--zhid quest-->
+	
 	<string id="tm_kill_stalker_7">
-		<text>Убить рака</text>
+		<text>Убить рака.</text>
+	</string>
+	
+		<string id="tm_kill_stalker_7_descr">
+		<text>Надо убить рака.</text>
+	</string>
+	
+		<string id="tm_kill_stalker_7_text">
+		<text>Убил рака.</text>
 	</string>
 	
 </string_table>

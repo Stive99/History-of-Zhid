@@ -1569,7 +1569,13 @@
 			</phrase>	
 			<phrase id="3">
 				<text>zhid_dialog_kachalka_quest_3</text>
-				
+			<!--	<give_info>zhid_dialog_kachalka_quest_have</give_info>   -->
+				<next>4</next>
+			</phrase>	
+				<phrase id="4">
+				<text>zhid_dialog_kachalka_quest_4</text>
+		<!--		<give_info>zhid_dialog_kachalka_quest_done</give_info>
+				<action></action>   -->
 			</phrase>
 		</phrase_list>
 	</dialog>

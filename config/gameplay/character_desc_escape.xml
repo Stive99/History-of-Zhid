@@ -23,6 +23,7 @@
 		<actor_dialog>escape_trader_jobs</actor_dialog>
 		<actor_dialog>tm_trader_dialog</actor_dialog>
 		<actor_dialog>tm_trader_reward</actor_dialog>
+		<!--<actor_dialog></actor_dialog>-->
 		<actor_dialog>escape_trader_done_blockpost_box</actor_dialog>
 	</specific_character>
 	
@@ -56,7 +57,7 @@
 				
 		<start_dialog>dm_hello_dialog</start_dialog>
 	<actor_dialog>zhid_dialog_kachalka_quest</actor_dialog>	
-	<actor_dialog>zhid_dialog_kachalka</actor_dialog>
+   <actor_dialog>zhid_dialog_kachalka</actor_dialog>  
 		</specific_character>
 	
 <!---------------------------------------esc_wolf----------------------------------------------------->

@@ -777,5 +777,8 @@
 	<string id="zhid_dialog_kachalka_quest_3">
 		<text>Удачи!</text>
 	</string>
+	<string id="zhid_dialog_kachalka_quest_4">
+		<text>готово!</text>
+	</string>
 	
 </string_table>
