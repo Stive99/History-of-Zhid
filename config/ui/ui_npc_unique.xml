@@ -130,6 +130,10 @@
 									<!--Барыги-->
 	
 	<texture id="ui_npc_u_baryga_rakitos" x="165" y="1944" width="165" height="108" />
+	
+									<!--Вадик-->
+	
+	<texture id="ui_npc_u_vadik" x="330" y="1944" width="165" height="108" />
 
 
 </ui_texture>

@@ -640,7 +640,7 @@
 <!-------------------------------------soldier_commander----------------------------------------------------->		
 	<specific_character id="esc_soldier_commander" team_default = "1">
 		<name>esc_soldier_commander_name</name>
-		<icon>ui_npc_u_soldier_beret_1</icon>
+		<icon>ui_npc_u_vadik</icon>
 		<bio>esc_soldier_commander_bio</bio>
 
 		<class>esc_soldier_commander</class>
