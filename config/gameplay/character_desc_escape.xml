@@ -30,13 +30,13 @@
 	<!---------------------------------------esc_zhid----------------------------------------------------->
 	<specific_character id="esc_zhid" team_default = "1">
 		<name>esc_zhid</name>
-		<icon>ui_npc_u_stalker_neytral_rukzak_3</icon>
+		<icon>ui_npc_u_zhid</icon>
 		<bio>esc_fanat_bio</bio>
 
 		<class>esc_zhid</class>
 		<community>zhid</community> <terrain_sect>stalker_terrain</terrain_sect>
 		
-		<rank>982</rank>
+		<rank>902</rank>
 		<reputation>10</reputation>
 		<money min="60000" max="200000" infinitive="0"/>
 		
