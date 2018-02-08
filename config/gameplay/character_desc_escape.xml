@@ -3,11 +3,11 @@
 <xml>
 	<specific_character id="escape_trader" no_random = "1">
 		<name>escape_trader_name</name>
-		<icon>ui_npc_u_trader</icon>
+		<icon>ui_npc_u_baryga_rakitos</icon>
 		<bio>escape_trader_bio</bio>
 
 		<class>trader</class>
-		<community>trader</community>
+		<community>barygi</community>
 		<visual>actors\trader\trader</visual>
 				
 		<rank>330</rank>

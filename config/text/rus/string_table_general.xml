@@ -3,6 +3,9 @@
 	<string id="zhid">
 		<text>Жиды</text>
 	</string>
+		<string id="barygi">
+		<text>Барыги</text>
+	</string>
 	<string id="actor">
 		<text>Одиночка</text>
 	</string>

@@ -122,8 +122,14 @@
     <texture id="ui_npc_u_stalker_sv_rukzak_1" x="825" y="1836" width="165" height="108" />
 
     <texture id="ui_npc_u_ucheniy_1_strong" x="825" y="1836" width="165" height="108" />
-
+	
+									<!--Жид-->
+									
 	<texture id="ui_npc_u_zhid" x="0" y="1944" width="165" height="108" />
+	
+									<!--Барыги-->
+	
+	<texture id="ui_npc_u_baryga_rakitos" x="165" y="1944" width="165" height="108" />
 
 
 </ui_texture>
