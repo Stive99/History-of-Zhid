@@ -21,6 +21,7 @@ local simMaxCount = {
 	bandit_novice = 40, bandit_regular = 50, bandit_veteran = 18, bandit_master = 10,
 	zombied_novice = 20, zombied_regular = 15, zombied_veteran = 10, zombied_master = 10,
 	zhid_novice = 20, zhid_regular = 20, zhid_veteran = 20, zhid_master = 6,
+	barygi_novice = 20, zhid_regular = 20, zhid_veteran = 20, zhid_master = 6,
 	
 	rat_weak = 0,	
 	tushkano_weak = 150,

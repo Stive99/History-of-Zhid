@@ -10,6 +10,7 @@ local killCountProps = {
 	bandit_novice = 1, bandit_experienced = 2, bandit_veteran = 3, bandit_master = 4,
 	zombied_novice = 1, zombied_experienced = 2, zombied_veteran = 3, zombied_master = 4,
 	zhid_stalker_novice = 1, zhid_stalker_experienced = 2, zhid_stalker_veteran = 3, zhid_stalker_master = 4,
+	barygi_stalker_novice = 1, zhid_stalker_experienced = 2, zhid_stalker_veteran = 3, zhid_stalker_master = 4,
 	
 	tushkano_weak = 1,
 	flesh_weak = 1, flesh_normal = 2, flesh_strong = 3,
