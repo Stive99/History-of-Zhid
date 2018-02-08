@@ -1,5 +1,8 @@
 [logic] 
 active = remark1 
+;trade = misc\shop_zhid\trade_zhid.ltx
+;trader_flags = 0 
+inv_max_weight = 10000  
 danger = danger_ignore
 on_death = death
 
@@ -8,6 +11,11 @@ ignore_distance = 5
 
 [remark1] 
 no_move = true
+
+[meet]
+use = true
+use_wpn = true
+meet_talk_enabled = true
 
 [death]
 on_info = %+zhid_dialog_kachalka_quest_have%

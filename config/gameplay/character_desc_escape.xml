@@ -36,7 +36,7 @@
 		<class>esc_zhid</class>
 		<community>zhid</community> <terrain_sect>stalker_terrain</terrain_sect>
 		
-		<rank>502</rank>
+		<rank>982</rank>
 		<reputation>10</reputation>
 		<money min="60000" max="200000" infinitive="0"/>
 		
