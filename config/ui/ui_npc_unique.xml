@@ -123,15 +123,15 @@
 
     <texture id="ui_npc_u_ucheniy_1_strong" x="825" y="1836" width="165" height="108" />
 	
-									<!--Жид-->
+									   <!--Жид-->
 									
 	<texture id="ui_npc_u_zhid" x="0" y="1944" width="165" height="108" />
 	
-									<!--Барыги-->
+									 <!--Барыги-->
 	
 	<texture id="ui_npc_u_baryga_rakitos" x="165" y="1944" width="165" height="108" />
 	
-									<!--Вадик-->
+									 <!--Вадик-->
 	
 	<texture id="ui_npc_u_vadik" x="330" y="1944" width="165" height="108" />
 

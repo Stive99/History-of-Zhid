@@ -1231,59 +1231,6 @@
             </phrase>
         </phrase_list>
     </dialog>
-    <dialog id="esc_bridge_soldiers_start">
-        <precondition>dialogs.is_not_wounded</precondition>
-        <phrase_list>
-            <phrase id="12">
-                <text>esc_bridge_soldiers_start_12</text>
-                <next>13</next>
-            </phrase>
-            <phrase id="13">
-                <text>esc_bridge_soldiers_start_13</text>
-                <next>14</next>
-                <next>24</next>
-            </phrase>
-            <phrase id="14">
-                <text>esc_bridge_soldiers_start_14</text>
-                <precondition>escape_dialog.has_soldiers_bribe</precondition>
-                <action>escape_dialog.give_soldiers_bribe</action>
-                <give_info>esc_bridge_pass_on</give_info>
-                <next>15</next>
-            </phrase>
-            <phrase id="15">
-                <text>esc_bridge_soldiers_start_15</text>
-            </phrase>
-            <phrase id="24">
-                <text>esc_bridge_soldiers_start_24</text>
-                <next>25</next>
-            </phrase>
-            <phrase id="25">
-                <text>esc_bridge_soldiers_start_25</text>
-            </phrase>
-            <phrase id="2">
-                <text></text>
-                <has_info>esc_bridge_pass_on</has_info>
-                <next>21</next>
-            </phrase>
-            <phrase id="21">
-                <text>esc_bridge_soldiers_start_21</text>
-            </phrase>
-            <phrase id="11">
-                <text>esc_bridge_soldiers_start_11</text>
-                <next>12</next>
-            </phrase>
-            <phrase id="1">
-                <text></text>
-                <dont_has_info>esc_bridge_pass_on</dont_has_info>
-                <next>11</next>
-            </phrase>
-            <phrase id="0">
-                <text></text>
-                <next>1</next>
-                <next>2</next>
-            </phrase>
-        </phrase_list>
-    </dialog>
     <dialog id="escape_lager_volk_info">
         <dont_has_info>escape_blockpost_case_done</dont_has_info>
         <phrase_list>
@@ -1338,14 +1285,14 @@
                 <next>11</next>
             </phrase>
             <phrase id="12">
-                <text></text>
+                <text />
                 <next>2</next>
                 <next>3</next>
                 <next>4</next>
                 <next>10</next>
             </phrase>
             <phrase id="11">
-                <text></text>
+                <text />
                 <next>12</next>
             </phrase>
             <phrase id="2111">
@@ -1426,7 +1373,7 @@
                 <next>511</next>
             </phrase>
             <phrase id="0">
-                <text></text>
+                <text />
                 <next>1</next>
                 <next>2</next>
                 <next>3</next>
@@ -1450,7 +1397,7 @@
                 <next>111111</next>
             </phrase>
             <phrase id="3">
-                <text></text>
+                <text />
                 <dont_has_info>tutorial_wounded_start</dont_has_info>
                 <next>31</next>
             </phrase>
@@ -1463,7 +1410,7 @@
                 <action>dialogs.break_dialog</action>
             </phrase>
             <phrase id="5">
-                <text></text>
+                <text />
                 <precondition>escape_dialog.bandits_die</precondition>
                 <dont_has_info>esc_kill_bandits_quest_done</dont_has_info>
                 <dont_has_info>esc_bandits_start</dont_has_info>
@@ -1513,70 +1460,138 @@
                 <text>escape_lager_volk_talk_41</text>
             </phrase>
             <phrase id="1">
-                <text></text>
+                <text />
                 <dont_has_info>esc_kill_bandits_quest_have</dont_has_info>
                 <dont_has_info>tutorial_wounded_give_info</dont_has_info>
                 <has_info>tutorial_wounded_start</has_info>
                 <next>11</next>
             </phrase>
             <phrase id="2">
-                <text></text>
+                <text />
                 <dont_has_info>esc_kill_bandits_quest_done</dont_has_info>
                 <has_info>tutorial_wounded_start</has_info>
                 <has_info>esc_kill_bandits_quest_have</has_info>
                 <next>21</next>
             </phrase>
             <phrase id="4">
-                <text></text>
+                <text />
                 <precondition>escape_dialog.wolf_precond_univ</precondition>
                 <next>41</next>
             </phrase>
         </phrase_list>
     </dialog>
-	
-	<dialog id="zhid_dialog_kachalka">
-		<phrase_list>
-			<phrase id="0">
-				<text>zhid_dialog_kachalka_0</text>
-				<next>1</next>
-			</phrase>	
-			<phrase id="1">
-				<text>zhid_dialog_kachalka_1</text>
-				<next>2</next>
-			</phrase>
-			<phrase id="2">
-				<text>zhid_dialog_kachalka_2</text>
-				<next>3</next>
-			</phrase>	
-			<phrase id="3">
-				<text>zhid_dialog_kachalka_3</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	<dialog id="zhid_dialog_kachalka_quest">
-		<phrase_list>
-			<phrase id="0">
-				<text>zhid_dialog_kachalka_quest_0</text>
-				<next>1</next>
-			</phrase>	
-			<phrase id="1">
-				<text>zhid_dialog_kachalka_quest_1</text>
-				<next>2</next>
-			</phrase>
-			<phrase id="2">
-				<text>zhid_dialog_kachalka_quest_2</text>
-				<next>3</next>
-			</phrase>	
-			<phrase id="3">
-				<text>zhid_dialog_kachalka_quest_3</text>
-			<!--	<give_info>zhid_dialog_kachalka_quest_have</give_info>   -->
-				<next>4</next>
-			</phrase>	
-				<phrase id="4">
-				<text>zhid_dialog_kachalka_quest_4</text>
-		<!--		<give_info>zhid_dialog_kachalka_quest_done</give_info>
-				<action></action>   -->
-			</phrase>
-		</phrase_list>
-	</dialog>
+    <dialog id="esc_bridge_soldiers_start">
+        <precondition>dialogs.is_not_wounded</precondition>
+        <phrase_list>
+            <phrase id="12">
+                <text>esc_bridge_soldiers_start_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>esc_bridge_soldiers_start_13</text>
+                <next>14</next>
+                <next>24</next>
+            </phrase>
+            <phrase id="14">
+                <text>esc_bridge_soldiers_start_14</text>
+                <precondition>escape_dialog.has_soldiers_bribe</precondition>
+                <action>escape_dialog.give_soldiers_bribe</action>
+                <give_info>esc_bridge_pass_on</give_info>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>esc_bridge_soldiers_start_15</text>
+            </phrase>
+            <phrase id="24">
+                <text>esc_bridge_soldiers_start_24</text>
+                <next>25</next>
+            </phrase>
+            <phrase id="25">
+                <text>esc_bridge_soldiers_start_25</text>
+            </phrase>
+            <phrase id="21">
+                <text>esc_bridge_soldiers_start_21</text>
+            </phrase>
+            <phrase id="11">
+                <text>esc_bridge_soldiers_start_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="1">
+                <text></text>
+                <dont_has_info>esc_bridge_pass_on</dont_has_info>
+                <next>11</next>
+            </phrase>
+            <phrase id="0">
+                <text></text>
+                <next>1</next>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text></text>
+                <has_info>esc_bridge_pass_on</has_info>
+                <next>21</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="zhid_dialog_kachalka">
+        <phrase_list>
+            <phrase id="2">
+                <text>zhid_dialog_kachalka_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>zhid_dialog_kachalka_3</text>
+            </phrase>
+            <phrase id="1">
+                <text>zhid_dialog_kachalka_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>zhid_dialog_kachalka_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="zhid_dialog_kachalka_quest">
+        <phrase_list>
+            <phrase id="1">
+                <text>zhid_dialog_kachalka_quest_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>zhid_dialog_kachalka_quest_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>zhid_dialog_kachalka_quest_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>zhid_dialog_kachalka_quest_4</text>
+            </phrase>
+            <phrase id="0">
+                <text>zhid_dialog_kachalka_quest_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="vadik_tobi_pizda">
+        <phrase_list>
+            <phrase id="0">
+                <text>vadik_tobi_pizda_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>vadik_tobi_pizda_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>vadik_tobi_pizda_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>vadik_tobi_pizda_3</text>
+            </phrase>
+        </phrase_list>
+    </dialog>
 </game_dialogs>

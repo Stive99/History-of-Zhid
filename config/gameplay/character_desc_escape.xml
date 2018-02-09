@@ -664,9 +664,11 @@
 		</supplies>
 		
 #include "gameplay\character_criticals_5.xml"
+<!-- #include "gameplay\start_dialog_nekit.xml"  -->
 										
 		<start_dialog>esc_bridge_soldiers_start</start_dialog>
 		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>vadik_tobi_pizda</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 <!-------------------------------------soldier_regular----------------------------------------------------->	
