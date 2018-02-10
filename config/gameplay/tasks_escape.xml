@@ -232,21 +232,21 @@
 	
 									<!--Zhid quest-->
 									
-	<game_task id="zhid_dialog_kachalka_quest_start">
+<!--	<game_task id="zhid_dialog_kachalka_quest_start">
 <title>tm_kill_stalker_7</title>
 <objective>
 <icon>ui_iconsTotal_doctor_meet</icon>
-<infoportion_complete>zhid_dialog_kachalka_quest_done</infoportion_complete>
+<!-- <infoportion_complete>zhid_dialog_kachalka_quest_done</infoportion_complete>	
 </objective>
-<objective>
+<objective> 
 <map_location_type hint="esc_zhid">green_location</map_location_type>
 <object_story_id>5483</object_story_id>
-<infoportion_complete>zhid_dialog_kachalka_quest_have</infoportion_complete>
+<!-- <infoportion_complete>zhid_dialog_kachalka_quest_have</infoportion_complete>	
 </objective>
 <objective>
 <text>tm_kill_stalker_7_text</text>
 <map_location_type hint="esc_zhid">blue_location</map_location_type>
 <object_story_id>006</object_story_id>
-<infoportion_complete>zhid_dialog_kachalka_quest_done</infoportion_complete>
+<!-- <infoportion_complete>zhid_dialog_kachalka_quest_done</infoportion_complete>	
 </objective>
-	</game_task>
+	</game_task>	-->

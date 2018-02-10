@@ -11,9 +11,9 @@
 		<team>Actor</team>
 		<supplies>
 			[spawn] \n
-			device_torch \n
-			wpn_bm16 \n
-			ammo_12x76_zhekan = 7 \n
+	        device_torch \n
+			;wpn_bm16 \n
+			;ammo_12x76_zhekan = 7 \n
 		</supplies>
 		
 		<class>actor</class>
