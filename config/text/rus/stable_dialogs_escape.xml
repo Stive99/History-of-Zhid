@@ -747,6 +747,7 @@
     <string id="tutorial_wounded_give_medkit_8">
         <text>Ну, как ты?</text>
     </string>
+	<!--Вадик-->
     <string id="vadik_tobi_pizda_0">
         <text>Вадик, ну ты попал!</text>
     </string>
@@ -759,6 +760,7 @@
     <string id="vadik_tobi_pizda_3">
         <text>Так сложилось.</text>
     </string>
+	<!--Жид про качалку-->
     <string id="zhid_dialog_kachalka_0">
         <text>Жид, когда качалка откроется?</text>
     </string>
@@ -771,6 +773,7 @@
     <string id="zhid_dialog_kachalka_3">
         <text>xD</text>
     </string>
+	<!--Жид квест 1 -->
     <string id="zhid_dialog_kachalka_quest_0">
         <text>Жид, есть работа?</text>
     </string>
