@@ -172,7 +172,7 @@ function give_weapon_to_actor (trader, actor)
 	dialogs.relocate_item_section(trader, "ammo_12x76_zhekan", "in")
 	dialogs.relocate_item_section(trader, "ammo_12x76_zhekan", "in")	
     dialogs.relocate_item_section(trader, "wpn_knife", "in")  
-	;escape_spawn_zhid.spawn_npc()
+	escape_spawn_zhid.spawn_npc()
 end
 
 
